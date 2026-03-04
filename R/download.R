@@ -2,10 +2,12 @@ options(repos="https://cloud.r-project.org")
 
 deps <- unlist(tools::package_dependencies("Rcpp", reverse=TRUE), use.names=FALSE)
 deps <- as.data.frame(available.packages())[deps, c("Package", "Version")]
+
 existing <- sub("\\.tar\\.gz", "", list.files("pkgs")) |>
-  strsplit("_") |>  do.call(rbind, args=_) |>
-  `colnames<-`(c("Package", "Existing")) |>
-  as.data.frame()
+  strsplit("_") |>  do.call(rbind, args=_)
+existing <- if (is.null(existing))
+  data.frame(Package=character(0), Existing=character(0)) else
+    data.frame(existing) |> `colnames<-`(c("Package", "Existing"))
 
 df <- dplyr::full_join(deps, existing, by="Package") |>
   dplyr::mutate(remove = is.na(Version)) |>
