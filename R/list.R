@@ -2,7 +2,7 @@ options(repos="https://cloud.r-project.org")
 library(dplyr)
 
 write_csv <- function(var) {
-  filename <- paste0(as.character(substitute(var)), ".csv")
+  filename <- paste0("lists/", as.character(substitute(var)), ".csv")
   data.frame(package = setdiff(var, nomask)) |>
     mutate(n_revdeps = sapply(tools::package_dependencies(package, reverse=TRUE), length)) |>
     relocate(n_revdeps, .before=1) |>
