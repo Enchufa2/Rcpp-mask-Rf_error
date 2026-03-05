@@ -28,7 +28,7 @@ n_revdeps,package,status
 1,dspline,email
 1,ravetools,email
 1,remstats,email
-1,PRIMME,email
+1,PRIMME,issue
 1,fourierin,email
 1,RcppBessel,email
 1,medfate,issue
