@@ -13,7 +13,7 @@ n_revdeps,package,status
 4,autothresholdr,email
 4,PoissonBinomial,email
 4,comat,email
-4,RcppSpdlog,email
+4,RcppSpdlog,edd
 4,Peptides,email
 4,pbv,email
 2,bsvars,email
@@ -54,14 +54,14 @@ n_revdeps,package,status
 0,PoissonMultinomial,email
 0,tidylda,email
 0,cooltools,email
-0,RcppQuantuccia,email
+0,RcppQuantuccia,edd
 0,cbbinom,email
 0,gibasa,email
 0,gif,email
 0,RClickhouse,email
 0,coga,email
 0,Countr,email
-0,RQuantLib,email
+0,RQuantLib,edd
 0,StealLikeBayes,issue
 0,bsvarSIGNs,email
 0,svycoxme,email
