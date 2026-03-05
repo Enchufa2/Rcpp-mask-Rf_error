@@ -62,7 +62,7 @@ n_revdeps,package,status
 0,coga,
 0,Countr,
 0,RQuantLib,
-0,StealLikeBayes,
+0,StealLikeBayes,issue
 0,bsvarSIGNs,
 0,svycoxme,
 0,grpCox,

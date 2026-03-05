@@ -86,7 +86,7 @@ n_revdeps,package,status
 1,pacotest,issue
 1,deadwood,issue
 1,RcppCWB,issue
-0,RcppTskit,issue
+0,RcppTskit,fp
 0,ReAD,email
 0,stan4bart,issue
 0,covafillr,issue
