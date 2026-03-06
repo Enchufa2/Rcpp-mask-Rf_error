@@ -167,5 +167,5 @@ n_revdeps,package,status
 0,mwcsr,issue
 0,secsse,issue
 0,RcppClassicExamples,edd
-0,UComp,email
+0,UComp,fp
 0,Racmacs,issue
