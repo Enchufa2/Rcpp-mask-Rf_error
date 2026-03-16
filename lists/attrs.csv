@@ -7,12 +7,11 @@ n_revdeps,package,status
 10,nlmixr2est,email
 8,oeli,email
 7,LambertW,email
-5,miceadds,email
 4,redistmetrics,email
 4,autothresholdr,email
-4,RcppSpdlog,edd
 4,Peptides,email
 4,pbv,email
+3,RcppSpdlog,edd
 2,bsvars,email
 2,updog,email
 2,hpa,email
@@ -25,7 +24,6 @@ n_revdeps,package,status
 1,tvdenoising,email
 1,dspline,email
 1,ravetools,email
-1,remstats,email
 1,PRIMME,issue
 1,fourierin,email
 1,medfate,issue
@@ -59,7 +57,6 @@ n_revdeps,package,status
 0,svycoxme,email
 0,grpCox,email
 0,o2geosocial,email
-0,rtestim,email
 0,remulate,email
 0,DiscreteDists,email
 0,trajeR,email
