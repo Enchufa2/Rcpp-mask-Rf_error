@@ -2,7 +2,7 @@ n_revdeps,package,status
 204,reticulate,issue
 140,Rfast,issue
 73,cubature,issue
-67,geometry,issue
+67,geometry,fp
 45,Seurat,issue
 40,mvnfast,issue
 37,bigmemory,issue
