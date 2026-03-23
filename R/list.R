@@ -11,8 +11,8 @@ write_csv <- function(var) {
     write.csv(filename, na="", row.names=FALSE, quote=FALSE)
 }
 
-attrs <- system("grep -rE 'Rf_error *\\(' dirs/ | grep RcppExports.cpp | cut -d'/' -f 2 | uniq", intern=TRUE)
-other <- system("grep -rE 'Rf_error *\\(' dirs/ | grep -E 'src|inst/include' | grep -v RcppExports.cpp | cut -d'/' -f 2 | uniq", intern=TRUE)
+attrs <- system("grep -rlE 'Rf_error *\\(' dirs/ | grep RcppExports.cpp | cut -d'/' -f 2 | uniq", intern=TRUE)
+other <- system("grep -rlE 'Rf_error *\\(' dirs/ | grep -E 'src|inst/include' | grep -v RcppExports.cpp | cut -d'/' -f 2 | uniq", intern=TRUE)
 nomask <- system("grep -r RCPP_NO_MASK_RF_ERROR dirs/ | cut -d'/' -f 2 | uniq", intern=TRUE)
 
 write_csv(attrs)
