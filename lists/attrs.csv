@@ -1,7 +1,6 @@
 n_revdeps,package,status
 19,philentropy,email
 15,lamW,email
-13,rxode2,issue
 12,dqrng,email
 12,gRbase,email
 10,nlmixr2est,email
@@ -11,9 +10,7 @@ n_revdeps,package,status
 4,autothresholdr,email
 4,Peptides,email
 4,pbv,email
-3,RcppSpdlog,edd
 2,bsvars,email
-2,updog,email
 2,hpa,email
 2,targeted,email
 2,simcdm,email
@@ -22,7 +19,6 @@ n_revdeps,package,status
 2,hypergeo2,email
 2,mnorm,email
 1,tvdenoising,email
-1,dspline,email
 1,ravetools,email
 1,PRIMME,issue
 1,fourierin,email
