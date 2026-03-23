@@ -1,10 +1,10 @@
 n_revdeps,package,status
 206,reticulate,issue
-141,Rfast,issue
+142,Rfast,issue
 73,cubature,issue
 67,geometry,fp
 45,Seurat,issue
-40,mvnfast,issue
+41,mvnfast,issue
 37,bigmemory,issue
 31,minqa,email
 26,interp,email
@@ -27,7 +27,6 @@ n_revdeps,package,status
 10,oce,issue
 9,s2,pr
 9,bigstatsr,issue
-8,RProtoBuf,edd
 8,rstpm2,issue
 7,gaston,email
 7,roptim,issue
@@ -35,7 +34,6 @@ n_revdeps,package,status
 5,RSNNS,issue
 5,RNiftyReg,issue
 5,optmatch,issue
-4,nonlinearTseries,issue
 4,GSE,email
 4,qtl2,issue
 4,genieclust,issue
@@ -54,11 +52,11 @@ n_revdeps,package,status
 2,symengine,issue
 2,stream,issue
 2,deadwood,issue
+1,modsem,issue
 1,stepR,email
 1,oem,issue
 1,spanner,issue
 1,lolog,issue
-1,RcppBDT,edd
 1,rlas,issue
 1,medfate,issue
 1,rsparse,issue
@@ -81,7 +79,6 @@ n_revdeps,package,status
 0,RcppHMM,email
 0,RScelestial,email
 0,divest,issue
-0,modsem,issue
 0,textreg,email
 0,PoweR,email
 0,VIC5,pr
@@ -151,6 +148,5 @@ n_revdeps,package,status
 0,microsimulation,issue
 0,mwcsr,issue
 0,secsse,issue
-0,RcppClassicExamples,edd
 0,UComp,fp
 0,Racmacs,issue
