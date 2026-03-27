@@ -10,7 +10,7 @@ n_revdeps,package,status
 26,interp,email
 22,geiger,email
 20,OpenMx,issue
-19,RNifti,issue
+19,RNifti,fp
 19,fixest,issue
 18,qs2,issue
 17,Rvcg,issue
@@ -126,7 +126,7 @@ n_revdeps,package,status
 0,tiledb,issue
 0,Rmalschains,email
 0,StealLikeBayes,issue
-0,imbibe,issue
+0,imbibe,fp
 0,DstarM,issue
 0,protViz,issue
 0,ganDataModel,email
