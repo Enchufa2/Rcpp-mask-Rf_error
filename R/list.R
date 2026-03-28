@@ -18,6 +18,7 @@ write_csv <- function(var) {
   df |>
     arrange(desc(n_revdeps)) |>
     write.csv(filename, na="", row.names=FALSE, quote=FALSE)
+  message("Wrote ", filename)
 }
 
 # monitor uses of Rf_error
