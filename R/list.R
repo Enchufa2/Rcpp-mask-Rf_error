@@ -3,6 +3,10 @@ library(dplyr)
 
 write_csv <- function(var) {
   filename <- paste0("lists/", as.character(substitute(var)), ".csv")
+  if (!length(var)) {
+    message("No packages found for ", filename)
+    return()
+  }
 
   df <- data.frame(package = var) |>
     mutate(n_revdeps = sapply(tools::package_dependencies(package, reverse=TRUE), length)) |>
