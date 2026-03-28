@@ -1,11 +1,11 @@
 n_revdeps,package,status
-141,Rfast,
-45,Seurat,
-40,mvnfast,
-31,minqa,
-31,imager,
+141,Rfast,pr
+45,Seurat,pr
+40,mvnfast,pr
+31,minqa,email
+31,imager,pr
 26,interp,
-25,RcppGSL,
+25,RcppGSL,fp
 21,geiger,
 17,Rvcg,
 17,rugarch,
@@ -41,7 +41,7 @@ n_revdeps,package,status
 0,zic,
 0,bayou,
 0,esaddle,
-0,RQuantLib,
+0,RQuantLib,issue
 0,textreg,
 0,PPMR,
 0,FRESA.CAD,
