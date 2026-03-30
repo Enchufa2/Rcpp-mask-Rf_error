@@ -3,7 +3,7 @@ n_revdeps,package,status
 141,Rfast,issue
 73,cubature,issue
 67,geometry,fp
-45,Seurat,issue
+46,Seurat,issue
 40,mvnfast,issue
 37,bigmemory,issue
 31,minqa,email
@@ -63,6 +63,7 @@ n_revdeps,package,status
 1,modsem,issue
 1,tsgarch,issue
 1,RCSF,email
+1,enmpa,issue
 1,treestats,issue
 1,tsmp,issue
 1,medfate,issue
@@ -109,7 +110,6 @@ n_revdeps,package,status
 0,pompp,email
 0,VIC5,pr
 0,PoweR,email
-0,enmpa,issue
 0,bayesianVARs,issue
 0,TreeSearch,issue
 0,modelSelection,issue
