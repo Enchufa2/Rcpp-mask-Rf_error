@@ -1,6 +1,6 @@
 n_revdeps,package,status
 141,Rfast,pr
-46,Seurat,pr
+47,Seurat,pr
 40,mvnfast,pr
 31,minqa,email
 31,imager,pr
@@ -17,8 +17,8 @@ n_revdeps,package,status
 7,ecp,
 6,Cyclops,
 5,packcircles,
+4,bigsnpr,
 4,GSE,
-3,bigsnpr,
 3,filearray,
 3,mets,
 2,rmgarch,
@@ -53,7 +53,6 @@ n_revdeps,package,status
 0,fiberLD,
 0,GENLIB,
 0,jmvconnect,
-0,golden,
 0,ernm,
 0,SelfControlledCaseSeries,
 0,tsissm,
@@ -69,7 +68,6 @@ n_revdeps,package,status
 0,pacotest,
 0,rliger,
 0,POSetR,
-0,pcadapt,
 0,secsse,
 0,CohortMethod,
 0,ReAD,
