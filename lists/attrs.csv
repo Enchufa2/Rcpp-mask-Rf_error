@@ -10,8 +10,6 @@ n_revdeps,package,status
 4,autothresholdr,email
 3,Peptides,email
 2,mev,email
-2,mnorm,email
-2,hpa,email
 2,hypergeo2,email
 2,simcdm,email
 2,targeted,email
@@ -52,6 +50,4 @@ n_revdeps,package,status
 0,BeSS,email
 0,BGVAR,email
 0,cooltools,email
-0,eddington,email
 0,PoissonMultinomial,email
-0,blatent,email

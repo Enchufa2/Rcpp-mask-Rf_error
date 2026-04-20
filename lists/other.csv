@@ -1,6 +1,6 @@
 n_revdeps,package,status
-208,reticulate,issue
-144,Rfast,issue
+210,reticulate,issue
+145,Rfast,issue
 73,cubature,issue
 67,geometry,fp
 46,Seurat,issue
@@ -15,8 +15,8 @@ n_revdeps,package,status
 19,RNifti,fp
 17,Rvcg,issue
 16,paws.common,issue
+14,text2vec,issue
 14,exactextractr,issue
-13,text2vec,issue
 13,rxode2,issue
 12,gRbase,email
 12,fastglm,issue
@@ -34,11 +34,11 @@ n_revdeps,package,status
 5,RSNNS,issue
 5,RNiftyReg,issue
 5,optmatch,issue
-4,diversitree,email
 4,qtl2,issue
 4,genieclust,issue
 4,GSE,email
 3,mets,issue
+3,diversitree,email
 3,move,issue
 3,stringmagic,issue
 3,leidenAlg,issue
@@ -79,6 +79,7 @@ n_revdeps,package,status
 0,protViz,issue
 0,divest,issue
 0,qtl2pleio,issue
+0,rip.opencv,
 0,zic,email
 0,Racmacs,issue
 0,pompp,email
