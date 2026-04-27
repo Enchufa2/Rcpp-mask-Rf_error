@@ -1,6 +1,5 @@
 n_revdeps,package,status
-145,Rfast,pr
-46,Seurat,pr
+146,Rfast,pr
 40,mvnfast,pr
 32,imager,pr
 31,minqa,email
@@ -12,8 +11,8 @@ n_revdeps,package,status
 12,fastglm,
 11,Morpho,
 11,cellWise,
-9,bigstatsr,
-8,rstpm2,
+10,bigstatsr,
+9,rstpm2,
 7,ecp,
 6,Cyclops,
 5,packcircles,
@@ -52,7 +51,6 @@ n_revdeps,package,status
 0,POSetR,
 0,Rforestry,
 0,tsissm,
-0,PPMR,
 0,ernm,
 0,secsse,
 0,rliger,

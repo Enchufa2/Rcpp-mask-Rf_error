@@ -1,9 +1,8 @@
 n_revdeps,package,status
-210,reticulate,issue
-145,Rfast,issue
+214,reticulate,issue
+146,Rfast,issue
 73,cubature,issue
 67,geometry,fp
-46,Seurat,issue
 40,mvnfast,issue
 39,bigmemory,issue
 31,minqa,email
@@ -11,7 +10,6 @@ n_revdeps,package,status
 21,geiger,email
 21,OpenMx,issue
 21,fixest,issue
-20,qs2,issue
 19,RNifti,fp
 17,Rvcg,issue
 16,paws.common,issue
@@ -23,11 +21,10 @@ n_revdeps,package,status
 11,Morpho,issue
 11,kohonen,email
 11,cellWise,email
-10,rvg,issue
+10,bigstatsr,issue
 10,oce,issue
-9,bigstatsr,issue
+9,rstpm2,issue
 9,s2,pr
-8,rstpm2,issue
 8,roptim,issue
 7,ecp,email
 7,gaston,email
@@ -63,6 +60,7 @@ n_revdeps,package,status
 1,lolog,issue
 1,medfate,issue
 1,modsem,issue
+1,stringfish,
 1,mrfDepth,email
 1,memshare,issue
 1,bigsparser,issue
@@ -78,7 +76,6 @@ n_revdeps,package,status
 0,r2sundials,issue
 0,protViz,issue
 0,divest,issue
-0,qtl2pleio,issue
 0,rip.opencv,
 0,zic,email
 0,Racmacs,issue
@@ -103,7 +100,6 @@ n_revdeps,package,status
 0,eseis,fp
 0,Rforestry,issue
 0,tsissm,issue
-0,PPMR,issue
 0,ernm,email
 0,secsse,issue
 0,rliger,issue
@@ -111,6 +107,7 @@ n_revdeps,package,status
 0,cmstatrExt,issue
 0,pacotest,issue
 0,ribiosMath,issue
+0,sundialr,
 0,dmbc,issue
 0,cmtkr,issue
 0,couplr,issue
