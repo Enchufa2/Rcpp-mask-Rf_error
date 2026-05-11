@@ -1,7 +1,7 @@
 n_revdeps,package,status
 215,reticulate,issue
-146,Rfast,issue
-72,cubature,issue
+145,Rfast,issue
+71,cubature,issue
 67,geometry,fp
 40,mvnfast,issue
 39,bigmemory,issue
@@ -31,7 +31,6 @@ n_revdeps,package,status
 5,RSNNS,issue
 5,RNiftyReg,issue
 5,optmatch,issue
-4,qtl2,issue
 4,genieclust,issue
 4,GSE,email
 3,mets,issue
@@ -58,7 +57,6 @@ n_revdeps,package,status
 1,tsmp,issue
 1,tsgarch,issue
 1,lolog,issue
-1,medfate,issue
 1,modsem,issue
 1,stringfish,
 1,mrfDepth,email
@@ -98,6 +96,7 @@ n_revdeps,package,status
 0,tsmarch,issue
 0,eseis,fp
 0,Rforestry,issue
+0,fb4package,
 0,tsissm,issue
 0,PPMR,
 0,ernm,email
@@ -107,6 +106,7 @@ n_revdeps,package,status
 0,cmstatrExt,issue
 0,pacotest,issue
 0,ribiosMath,issue
+0,localLLM,
 0,sundialr,
 0,dmbc,issue
 0,cmtkr,issue
