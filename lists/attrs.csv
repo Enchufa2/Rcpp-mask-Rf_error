@@ -1,5 +1,5 @@
 n_revdeps,package,status
-19,philentropy,email
+20,philentropy,email
 12,gRbase,email
 11,dqrng,email
 10,nlmixr2est,email
@@ -15,7 +15,6 @@ n_revdeps,package,status
 2,targeted,email
 2,mev,email
 1,fourierin,email
-1,ravetools,email
 1,PRIMME,issue
 1,tvdenoising,email
 1,bvartools,email

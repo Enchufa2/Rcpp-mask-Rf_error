@@ -1,5 +1,5 @@
 n_revdeps,package,status
-214,reticulate,issue
+213,reticulate,issue
 145,Rfast,issue
 70,cubature,issue
 67,geometry,fp
@@ -14,8 +14,8 @@ n_revdeps,package,status
 17,Rvcg,issue
 16,paws.common,issue
 15,exactextractr,issue
+14,rxode2,issue
 14,text2vec,issue
-13,rxode2,issue
 12,gRbase,email
 12,cellWise,email
 12,fastglm,issue
@@ -59,7 +59,6 @@ n_revdeps,package,status
 1,n1qn1,issue
 1,rsparse,issue
 1,RcppCWB,issue
-1,tsgarch,issue
 1,mrfDepth,email
 1,memshare,issue
 1,psychonetrics,issue
@@ -81,7 +80,6 @@ n_revdeps,package,status
 0,JUMP,email
 0,tsmarch,issue
 0,tsissm,issue
-0,couplr,issue
 0,microsimulation,issue
 0,r2sundials,issue
 0,cmstatrExt,issue
