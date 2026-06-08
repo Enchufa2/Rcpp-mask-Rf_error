@@ -15,7 +15,6 @@ n_revdeps,package,status
 2,primes,email
 1,bvartools,email
 1,rotations,email
-1,PRIMME,issue
 1,RcppCWB,issue
 1,fstcore,email
 1,fourierin,email
@@ -42,7 +41,6 @@ n_revdeps,package,status
 0,cooltools,email
 0,StealLikeBayes,issue
 0,remulate,email
-0,RQuantLib,edd
 0,cbbinom,email
 0,RClickhouse,email
 0,bpvars,email

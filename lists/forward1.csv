@@ -1,5 +1,5 @@
 n_revdeps,package,status
-146,Rfast,pr
+147,Rfast,pr
 40,mvnfast,pr
 31,minqa,email
 31,imager,pr
@@ -15,7 +15,7 @@ n_revdeps,package,status
 9,rstpm2,
 8,ecp,
 6,Cyclops,
-5,packcircles,
+6,packcircles,
 4,GSE,
 4,bigsnpr,
 3,mets,
@@ -34,6 +34,7 @@ n_revdeps,package,status
 1,treestats,
 1,oem,
 1,modsem,
+0,quadrupen,
 0,SelfControlledCaseSeries,
 0,POSetR,
 0,bayou,
@@ -66,7 +67,6 @@ n_revdeps,package,status
 0,junctions,
 0,FRESA.CAD,
 0,ernm,
-0,RQuantLib,issue
 0,pcadapt,
 0,secsse,
 0,Rforestry,
