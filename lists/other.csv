@@ -1,6 +1,6 @@
 n_revdeps,package,status
 218,reticulate,issue
-147,Rfast,issue
+146,Rfast,issue
 68,cubature,issue
 68,geometry,fp
 40,mvnfast,issue
@@ -103,6 +103,7 @@ n_revdeps,package,status
 0,HDclust,email
 0,esaddle,issue
 0,DstarM,issue
+0,ProbSVMs,
 0,MAGEE,email
 0,fiberLD,email
 0,dmbc,issue
