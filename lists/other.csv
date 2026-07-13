@@ -1,9 +1,9 @@
 n_revdeps,package,status
-218,reticulate,issue
-147,Rfast,issue
+222,reticulate,issue
+148,Rfast,issue
 68,cubature,issue
 68,geometry,fp
-40,mvnfast,issue
+39,mvnfast,issue
 39,bigmemory,issue
 32,minqa,email
 26,interp,email
@@ -20,10 +20,10 @@ n_revdeps,package,status
 12,gRbase,email
 11,Morpho,issue
 11,kohonen,email
+10,s2,pr
 10,bigstatsr,issue
 10,oce,issue
 9,rstpm2,issue
-9,s2,pr
 8,ecp,email
 8,roptim,issue
 7,gaston,email
@@ -55,7 +55,6 @@ n_revdeps,package,status
 1,rsparse,issue
 1,modsem,issue
 1,memshare,issue
-1,ccaPP,issue
 1,n1qn1,issue
 1,oem,issue
 1,mrfDepth,email
