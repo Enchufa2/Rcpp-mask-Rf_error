@@ -1,10 +1,10 @@
 n_revdeps,package,status
-150,Rfast,pr
+152,Rfast,pr
 39,mvnfast,pr
 32,minqa,email
 31,imager,pr
-25,RcppGSL,fp
 25,interp,
+24,RcppGSL,fp
 21,geiger,
 17,Rvcg,
 17,rugarch,
@@ -45,6 +45,7 @@ n_revdeps,package,status
 0,CohortMethod,
 0,POSetR,
 0,tsissm,
+0,STARRS,
 0,RcppHMM,
 0,textreg,
 0,STAREG,
