@@ -7,7 +7,6 @@ n_revdeps,package,status
 4,Peptides,email
 4,redistmetrics,email
 4,pbv,email
-3,bsvars,email
 2,simcdm,email
 2,mev,email
 2,hypergeo2,email
@@ -17,7 +16,7 @@ n_revdeps,package,status
 1,RcppCWB,issue
 1,bvartools,email
 0,gRc,email
-0,bsvarSIGNs,email
+0,ctmcd,
 0,RcppQuantuccia,edd
 0,StealLikeBayes,issue
 0,bigReg,email

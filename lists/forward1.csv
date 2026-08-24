@@ -1,8 +1,8 @@
 n_revdeps,package,status
-153,Rfast,pr
+152,Rfast,pr
 39,mvnfast,pr
 32,minqa,email
-31,imager,pr
+30,imager,pr
 25,interp,
 25,RcppGSL,fp
 21,geiger,
