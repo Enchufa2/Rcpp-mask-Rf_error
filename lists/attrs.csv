@@ -1,5 +1,5 @@
 n_revdeps,package,status
-18,philentropy,email
+17,philentropy,email
 12,gRbase,email
 12,dqrng,email
 7,LambertW,email
@@ -33,7 +33,6 @@ n_revdeps,package,status
 0,BayesLN,email
 0,markovmix,email
 0,PoissonMultinomial,email
-0,tidylda,email
 0,cbbinom,email
 0,svycoxme,email
 0,grpCox,email
