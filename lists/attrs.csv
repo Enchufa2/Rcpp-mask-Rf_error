@@ -1,5 +1,5 @@
 n_revdeps,package,status
-17,philentropy,email
+13,philentropy,email
 12,dqrng,email
 12,gRbase,email
 7,LambertW,email
@@ -14,9 +14,7 @@ n_revdeps,package,status
 1,fstcore,email
 1,RcppCWB,issue
 1,tvdenoising,email
-1,bvartools,email
 0,svycoxme,email
-0,cooltools,email
 0,RcppQuantuccia,edd
 0,BeSS,email
 0,ctmcd,

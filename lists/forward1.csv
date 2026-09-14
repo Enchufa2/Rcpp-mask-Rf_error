@@ -1,5 +1,5 @@
 n_revdeps,package,status
-156,Rfast,pr
+158,Rfast,pr
 39,mvnfast,pr
 32,minqa,email
 30,imager,pr
@@ -46,7 +46,6 @@ n_revdeps,package,status
 0,GenomeAdmixR,
 0,RcppHMM,
 0,jmvconnect,
-0,HDclust,
 0,ndl,
 0,STAREG,
 0,simRestore,
