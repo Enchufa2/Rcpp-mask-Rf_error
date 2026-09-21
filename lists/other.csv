@@ -1,14 +1,14 @@
 n_revdeps,package,status
-231,reticulate,issue
-158,Rfast,issue
-72,geometry,fp
+232,reticulate,issue
+159,Rfast,issue
+73,geometry,fp
 69,cubature,issue
 39,mvnfast,issue
 39,bigmemory,issue
 32,minqa,email
 29,Deriv,
 25,interp,email
-24,fixest,issue
+25,fixest,issue
 21,geiger,email
 20,OpenMx,issue
 19,exactextractr,issue
@@ -36,6 +36,7 @@ n_revdeps,package,status
 3,opencltools,
 3,leidenAlg,issue
 3,mets,issue
+3,mrfDepth,email
 2,MSGARCH,issue
 2,rmgarch,issue
 2,GMMAT,email
@@ -44,7 +45,7 @@ n_revdeps,package,status
 2,nmathopencl,
 2,steadyICA,email
 2,deadwood,issue
-2,mrfDepth,email
+2,psychonetrics,issue
 1,dgraphs,
 1,tsmp,issue
 1,memshare,issue
@@ -54,11 +55,12 @@ n_revdeps,package,status
 1,bigsparser,issue
 1,rsparse,issue
 1,modsem,issue
+1,RCSF,email
 1,oem,issue
 1,bgms,
-1,psychonetrics,issue
 0,Rforestry,issue
 0,rip.opencv,
+0,ast2ast,
 0,eseis,fp
 0,sparvaride,issue
 0,hesim,issue
@@ -111,6 +113,7 @@ n_revdeps,package,status
 0,microsimulation,issue
 0,mombf,issue
 0,protViz,issue
+0,imply,
 0,RInside,fp
 0,ganGenerativeData,email
 0,bayesianVARs,issue
@@ -121,7 +124,6 @@ n_revdeps,package,status
 0,PoweR,email
 0,quantspec,issue
 0,fdaMixed,email
-0,RCSF,email
 0,STARRS,
 0,tulpa,
 0,RScelestial,email
