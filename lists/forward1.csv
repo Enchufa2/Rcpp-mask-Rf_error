@@ -1,5 +1,5 @@
 n_revdeps,package,status
-160,Rfast,pr
+161,Rfast,pr
 39,mvnfast,pr
 31,minqa,email
 30,imager,pr
@@ -35,7 +35,6 @@ n_revdeps,package,status
 1,treestats,
 1,oem,
 0,quadrupen,
-0,fmrihrf,
 0,revealedPrefs,
 0,ernm,
 0,GENLIB,

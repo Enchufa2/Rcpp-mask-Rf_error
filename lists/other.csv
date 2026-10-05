@@ -1,6 +1,6 @@
 n_revdeps,package,status
-234,reticulate,issue
-160,Rfast,issue
+237,reticulate,issue
+161,Rfast,issue
 73,geometry,fp
 69,cubature,issue
 39,mvnfast,issue
@@ -10,17 +10,17 @@ n_revdeps,package,status
 25,fixest,issue
 25,interp,email
 21,geiger,email
-20,OpenMx,issue
+21,OpenMx,issue
 19,exactextractr,issue
 19,RNifti,fp
 19,rxode2,issue
 17,Rvcg,issue
 14,nlmixr2est,
-13,text2vec,issue
 12,gRbase,email
 12,cellWise,email
 11,kohonen,email
 11,Morpho,issue
+11,text2vec,issue
 10,rstpm2,issue
 10,oce,issue
 10,bigstatsr,issue
@@ -38,8 +38,8 @@ n_revdeps,package,status
 3,mrfDepth,email
 3,move,issue
 2,cccp,email
-2,deadwood,issue
 2,rmgarch,issue
+2,RCSF,email
 2,modelSelection,issue
 2,MSGARCH,issue
 2,psychonetrics,issue
@@ -48,7 +48,6 @@ n_revdeps,package,status
 2,GMMAT,email
 1,n1qn1,issue
 1,RcppCWB,issue
-1,RCSF,email
 1,modsem,issue
 1,bgms,
 1,tsmp,issue
@@ -63,7 +62,6 @@ n_revdeps,package,status
 0,RcppTskit,fp
 0,image.CannyEdges,issue
 0,PoweR,email
-0,fmrihrf,issue
 0,divest,issue
 0,WebGestaltR,
 0,ernm,email
@@ -85,7 +83,6 @@ n_revdeps,package,status
 0,ReAD,email
 0,sbfc,issue
 0,simRestore,email
-0,mombf,issue
 0,tsissm,issue
 0,pacotest,issue
 0,ProbSVMs,
@@ -100,6 +97,7 @@ n_revdeps,package,status
 0,sundialr,
 0,plantmix,
 0,covafillr,issue
+0,dataprep,
 0,microsimulation,issue
 0,cmstatrExt,issue
 0,fiberLD,email
