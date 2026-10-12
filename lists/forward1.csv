@@ -1,6 +1,6 @@
 n_revdeps,package,status
 161,Rfast,pr
-39,mvnfast,pr
+40,mvnfast,pr
 31,minqa,email
 30,imager,pr
 25,RcppGSL,fp
@@ -19,7 +19,6 @@ n_revdeps,package,status
 4,GSE,
 4,bigsnpr,
 3,mets,
-3,filearray,
 3,mrfDepth,
 2,cccp,
 2,rmgarch,
@@ -27,6 +26,7 @@ n_revdeps,package,status
 2,MSGARCH,
 2,GMMAT,
 2,RcppDE,
+1,OptimalBinningWoE,
 1,mmapcharr,
 1,modsem,
 1,bigsparser,
@@ -44,7 +44,6 @@ n_revdeps,package,status
 0,jmotif,
 0,ndl,
 0,jmvconnect,
-0,OptimalBinningWoE,
 0,ReAD,
 0,secsse,
 0,simRestore,
@@ -58,7 +57,6 @@ n_revdeps,package,status
 0,STARRS,
 0,pdSpecEst,
 0,microsimulation,
-0,pcadapt,
 0,fiberLD,
 0,textreg,
 0,FRESA.CAD,

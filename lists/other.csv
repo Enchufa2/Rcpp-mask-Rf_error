@@ -1,9 +1,9 @@
 n_revdeps,package,status
-237,reticulate,issue
+239,reticulate,issue
 161,Rfast,issue
 73,geometry,fp
 69,cubature,issue
-39,mvnfast,issue
+40,mvnfast,issue
 39,bigmemory,issue
 31,minqa,email
 29,Deriv,
@@ -34,6 +34,7 @@ n_revdeps,package,status
 3,opencltools,
 3,mets,issue
 3,leidenAlg,issue
+3,filearray,
 3,diversitree,email
 3,mrfDepth,email
 3,move,issue
@@ -57,7 +58,6 @@ n_revdeps,package,status
 1,rsparse,issue
 1,memshare,issue
 1,dgraphs,
-0,pccc,issue
 0,geosmooth,
 0,RcppTskit,fp
 0,image.CannyEdges,issue
@@ -131,5 +131,4 @@ n_revdeps,package,status
 0,geeVerse,email
 0,imbibe,fp
 0,imply,
-0,FlexRL,issue
 0,quantspec,issue
