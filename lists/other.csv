@@ -1,7 +1,7 @@
 n_revdeps,package,status
-239,reticulate,issue
+242,reticulate,issue
 161,Rfast,issue
-73,geometry,fp
+72,geometry,fp
 69,cubature,issue
 40,mvnfast,issue
 39,bigmemory,issue
@@ -9,8 +9,8 @@ n_revdeps,package,status
 29,Deriv,
 25,fixest,issue
 25,interp,email
-21,geiger,email
 21,OpenMx,issue
+20,geiger,email
 19,exactextractr,issue
 19,RNifti,fp
 19,rxode2,issue
@@ -25,10 +25,10 @@ n_revdeps,package,status
 10,oce,issue
 10,bigstatsr,issue
 8,roptim,issue
-8,ecp,email
 7,gaston,email
+7,ecp,email
+6,optmatch,issue
 6,genieclust,issue
-5,optmatch,issue
 5,RSNNS,issue
 4,GSE,email
 3,opencltools,
@@ -51,8 +51,8 @@ n_revdeps,package,status
 1,RcppCWB,issue
 1,modsem,issue
 1,bgms,
-1,tsmp,issue
 1,bigsparser,issue
+1,matrixprofiler,
 1,lolog,issue
 1,oem,issue
 1,rsparse,issue
@@ -124,10 +124,10 @@ n_revdeps,package,status
 0,sits,issue
 0,r2sundials,issue
 0,rliger,issue
-0,PPMR,
 0,essHist,email
 0,RcppHMM,email
 0,esaddle,issue
+0,psp,
 0,geeVerse,email
 0,imbibe,fp
 0,imply,

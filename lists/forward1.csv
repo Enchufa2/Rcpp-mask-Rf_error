@@ -5,7 +5,7 @@ n_revdeps,package,status
 30,imager,pr
 25,RcppGSL,fp
 25,interp,
-21,geiger,
+20,geiger,
 18,rugarch,
 17,Rvcg,
 12,fastglm,
@@ -13,8 +13,8 @@ n_revdeps,package,status
 11,Morpho,
 10,rstpm2,
 10,bigstatsr,
-8,ecp,
-6,packcircles,
+7,packcircles,
+7,ecp,
 6,Cyclops,
 4,GSE,
 4,bigsnpr,
@@ -66,7 +66,6 @@ n_revdeps,package,status
 0,rMVP,
 0,SelfControlledCaseSeries,
 0,rliger,
-0,PPMR,
 0,junctions,
 0,CohortMethod,
 0,RcppHMM,

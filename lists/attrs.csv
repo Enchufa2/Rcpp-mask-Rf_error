@@ -8,7 +8,7 @@ n_revdeps,package,status
 4,autothresholdr,email
 4,redistmetrics,email
 4,pbv,email
-2,primes,email
+3,primes,email
 2,simcdm,email
 2,mev,email
 1,RcppCWB,issue
